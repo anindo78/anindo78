@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Anindo 👋
 
 <!--
 **anindo78/anindo78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an economist by education, but spent years in analytics and data sciences with retail banks and retail & cpg companies. I love econometric modeling, causal inference and machine learning. I am currently building my expertise in software engineering. 
