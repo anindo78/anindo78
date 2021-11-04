@@ -26,3 +26,8 @@ I am an economist by education, but spent years in analytics and data sciences w
 - 📫 How to reach me: @anindo78 on Twitter
 - 😄 Pronouns: He/Him
 - ⚡ Superpower: I procrastinate
+
+---
+
+### My Skills:
+!(https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
