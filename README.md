@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an economist by education, but spent years in analytics and data sciences with retail & cpg companies. I love econometric modeling, causal inference and machine learning. I love Python & I would say I am _"medium"_ proficient in Python. I am currently building my expertise in software engineering. 
+I am an economist by education, but spent years in analytics and data sciences with banks, retail & cpg companies. I love econometric modeling, causal inference and machine learning. I love Python & I would say I am _"medium"_ proficient in Python. I am currently building my expertise in software engineering. 
 
 
 - 🔭 I’m currently working on some personal python, play around with LLMs / Agents, Causal inference and Statistical Analysis
@@ -25,7 +25,7 @@ I am an economist by education, but spent years in analytics and data sciences w
 - 💬 Ask me about intersection of econometrics, statistics and machine learning
 - 📫 How to reach me: @anindo78 on Twitter
 - 😄 Pronouns: He/Him
-- ⚡ Superpower: I procrastinate
+- ⚡ Superpower: I dream big to achieve big
 
 ---
 
